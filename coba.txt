@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Demo </title>
+	</head>
+	<body>
+		<button onclick="klik()"> klik </button>
+		
+	</body>
+</html>
